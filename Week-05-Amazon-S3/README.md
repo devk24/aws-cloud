@@ -16,7 +16,7 @@ Amazon S3 is commonly used for:
 
 ## Key Features
 
-- Highly durable (99.999999999% durability)
+- Highly durable 
 - Virtually unlimited storage
 - Secure access using IAM and Bucket Policies
 - Versioning support
