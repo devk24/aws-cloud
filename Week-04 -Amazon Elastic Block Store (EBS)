@@ -1,0 +1,22 @@
+## Week 4 - Amazon Elastic Block Store (EBS)
+
+### Topics Covered
+- Introduction to Amazon Elastic Block Store (EBS)
+- EBS Volume Types
+- Creating and Attaching EBS Volumes
+- Formatting and Mounting EBS Volumes
+- Resizing EBS Volumes
+- Creating and Managing EBS Snapshots
+
+### Hands-on Practice
+- Created an EBS volume.
+- Attached the volume to an EC2 instance.
+- Formatted and mounted the volume.
+- Verified persistent storage.
+- Created an EBS snapshot.
+
+### Skills Gained
+- Learned how to manage persistent block storage for EC2.
+- Attached and mounted EBS volumes to EC2 instances.
+- Performed volume backup using snapshots.
+- Understood EBS volume management and storage concepts.
